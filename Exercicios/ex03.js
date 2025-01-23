@@ -1,9 +1,9 @@
 // Criar texto usando variáveis e constantes
-const nome = "Cleber"; // Nome da pessoa
+const nome = "kennedy"; // Nome da pessoa
 
-let idade = 25; // Idade da pessoa
-let altura = 1.82; // Altura em metros
-let peso = 97.00; // Peso em kg (valor numérico)
+let idade = 38; // Idade da pessoa
+let altura = 1.86; // Altura em metros
+let peso = 92.50; // Peso em kg (valor numérico)
 
 // Cálculo do IMC
 let imc = peso / (altura * altura);
