@@ -1,5 +1,5 @@
 // Variavel Constante é usada pra um valor que não muda 
-//não se pode mudar o valor de uma constante 
+// não se pode mudar o valor de uma constante 
 
 const nome = "Cleber";
 
