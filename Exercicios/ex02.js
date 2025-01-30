@@ -1,5 +1,5 @@
 // Criar texto usando variáveis e constantes
-// Usando constantes de forma correta
+// Usando constantes de forma correta !
 const nome = "Cleber";
 const sobrenome = "Batista";
 let idade = 25;
