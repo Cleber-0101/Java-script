@@ -5,7 +5,7 @@
 // % na programação é usado para verificarmos o resto da divisão
 //concatenação em programação é unir doid valores 
 
-//somar
+//somar + concatenação
 const number1 = 5 ;
 const number2 = 10;
 console.log(number1 + number2)
@@ -38,7 +38,28 @@ console.log(typeof divTotal , divTotal)
 console.log(typeof valorTotal1 , valorTotal1)
 
 
+//operador de incremento " + "
+let contador = 1
+contador++ //2
+contador++ //3
+contador++ //4
+contador++ //5
+contador++ //6
+contador++ //7
+contador++ //8
+contador++ //9
+contador++ //10
+console.log(contador)
 
+let contador1 = 10
+console.log("este contador tem este valor " + contador1++)
+console.log(contador1)
+
+
+// operado de decremento é usado o sinal de subtração 
+let contadorSub = 10
+console.log("Este contador esta diminuindo o valor da variavel " + contadorSub--)
+console.log(contadorSub)
 
 
 
