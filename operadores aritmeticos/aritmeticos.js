@@ -59,7 +59,9 @@ console.log(contador1)
 // operado de decremento é usado o sinal de subtração 
 let contadorSub = 10
 console.log("Este contador esta diminuindo o valor da variavel " + contadorSub--)
-console.log(contadorSub)
+console.log( typeof contadorSub , contadorSub)
+
+
 
 
 
